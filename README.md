@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Syababhaq&theme=tokyonight&layout=compact&langs_count=10)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Syababhaq)](https://github.com/anuraghazra/github-readme-stats)
